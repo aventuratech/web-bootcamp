@@ -3,7 +3,7 @@ Course 1.1 Photo Gallery - Getting Started
 
 In this lesson we will create your first web page, add some content and make it pretty.
 
-## 1.1 Getting started
+## 1.1.1 Getting started
 
 ![lesson 1.1 screenshot](screenshots/1.1.png)
 
@@ -26,7 +26,7 @@ In this lesson we will create your first web page, add some content and make it 
 
 > practice: add meta keywords to the head like "photography"
 
-## 1.2 Adding content to the page
+## 1.1.2 Adding content to the page
 
 ![lesson 1.2 screenshot](screenshots/1.2.png)
 
@@ -57,7 +57,7 @@ In this lesson we will create your first web page, add some content and make it 
 
 > practice: make the hero image black and white
 
-## 1.3 Style the hero
+## 1.1.3 Style the hero
 
 ![lesson 1.3 screenshot](screenshots/1.3.png)
 
@@ -128,7 +128,7 @@ In this lesson we will create your first web page, add some content and make it 
     
 > practice: choose different fonts for the headlines and body content on google fonts
 
-## Review page
+## 1.1.4 Review page
 
 ![lesson 1.4 screenshot](screenshots/1.4.png)
 
