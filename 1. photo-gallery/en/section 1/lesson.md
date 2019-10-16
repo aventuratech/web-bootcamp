@@ -1,5 +1,5 @@
-1.1 Photo Gallery - Hero Section
-================================
+Course 1.1 Photo Gallery - Getting Started
+=======================================
 
 In this lesson we will create your first web page, add some content and make it pretty.
 
