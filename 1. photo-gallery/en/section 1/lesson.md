@@ -1,5 +1,11 @@
+1.1 Photo Gallery - Hero Section
+================================
 
-create the page, add some basic content and make it pretty
+In this lesson we will create your first web page, add some content and make it pretty.
+
+## 1.1 Getting started
+
+![lesson 1.1 screenshot](screenshots/1.1.png)
 
 1. getting started
     * create the folder and page
@@ -21,7 +27,10 @@ create the page, add some basic content and make it pretty
 
 > practice: add meta keywords to the head like "photography"
 
-2. adding content to the page
+## 1.2 Adding content to the page
+
+![lesson 1.2 screenshot](screenshots/1.2.png)
+
     * add the hero
     * add the masthead photo to the hero
         * show https://picsum.photos/
@@ -49,7 +58,10 @@ create the page, add some basic content and make it pretty
 
 > practice: make the hero image black and white
 
-3. style the hero
+## 1.3 Style the hero
+
+![lesson 1.3 screenshot](screenshots/1.3.png)
+
     * set size (max 80) of hero container
     * stretch the image to fill the container
     * add font from google fonts
@@ -117,6 +129,9 @@ create the page, add some basic content and make it pretty
     
 > practice: choose different fonts for the headlines and body content on google fonts
 
-4. review and refactor
+## Review page
+
+![lesson 1.4 screenshot](screenshots/1.4.png)
+
     * inspect page in chrome inspector
     * view on mobile / tablet in inspector
