@@ -134,3 +134,5 @@ In this lesson we will create your first web page, add some content and make it 
 
 * inspect page in chrome inspector
 * view on mobile / tablet in inspector
+
+[Next Page](../../section 2/lesson.md)
