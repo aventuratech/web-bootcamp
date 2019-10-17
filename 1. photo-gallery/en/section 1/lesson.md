@@ -135,5 +135,3 @@ In this lesson we will create your first web page, add some content and make it 
 * inspect page in chrome inspector
 * view on mobile / tablet in inspector
 
-[I'm an inline-style link](https://www.google.com)
-[Next Page](1.photo-gallery/en/section 2/lesson.md)
